@@ -40,8 +40,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ Github: https://github.com/rizalmhmd
 ╰─回
 %readmore`.trimStart(),
   header: '╭─回「 %category 」',
